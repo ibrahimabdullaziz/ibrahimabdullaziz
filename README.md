@@ -1,7 +1,7 @@
 # Hey, I'm Ibrahim Abdullaziz 👋  
 ### Frontend Engineer | React Specialist | Software Craftsman
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2378c6ff&size=22&center=true&vCenter=true&lines=Senior+Frontend+Engineer;React+%7C+TypeScript+Specialist;Performance+%7C+Clean+Architecture)](https://github.com/IbrahimYabdan)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2378c6ff&size=22&center=true&vCenter=true&lines=Frontend+Engineer;React+%7C+TypeScript+Specialist;Performance+%7C+Clean+Architecture)](https://github.com/IbrahimYabdan)
 
 ---
 
