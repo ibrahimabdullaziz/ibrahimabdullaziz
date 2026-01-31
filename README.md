@@ -69,15 +69,6 @@ My early background in **C/C++** taught me how performance, algorithms and memor
 
 ---
 
-## GitHub Overview
-
-<!-- GitHub Stats -->
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimabdullaziz&show_icons=true&theme=tokyonight&count_private=true" alt="Ibrahim's GitHub stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimabdullaziz&layout=compact&theme=tokyonight" alt="Top languages" width="48%">
-</p>
-
-
 <!-- Visitor Counter -->
 ![Visitors](https://komarev.com/ghpvc/?username=ibrahimabdullaziz&color=blue)
 
