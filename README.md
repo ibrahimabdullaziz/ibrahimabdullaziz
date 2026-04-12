@@ -1,4 +1,4 @@
-# Hey, I'm Ibrahim Abdullaziz 👋  
+# Hey, I'm Ibrahim Abdullaziz  
 ### Frontend Engineer | React Specialist | Software Craftsman
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2378c6ff&size=22&center=true&vCenter=true&lines=Frontend+Engineer;React+%7C+TypeScript+Specialist;Performance+%7C+Clean+Architecture)](https://github.com/IbrahimYabdan)
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
-  <h3>⚛️ Frameworks & State Management</h3>
+  <h3> Frameworks & State Management</h3>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
@@ -71,13 +71,6 @@ My early background in **C/C++** taught me how performance, algorithms and memor
 
 <!-- Visitor Counter -->
 ![Visitors](https://komarev.com/ghpvc/?username=ibrahimabdullaziz&color=blue)
-
----
-
-## Blog & Talks
-
-- I write about React architecture, performance and testing. (Link your blog or dev.to / medium if you have one)
-- Interested in speaking? I enjoy workshop-style talks about advanced React patterns and testing strategy.
 
 ---
 
