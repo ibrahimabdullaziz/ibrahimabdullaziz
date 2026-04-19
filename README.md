@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d14527&height=100&section=header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=78C6FF&center=true&vCenter=true&width=520&lines=Frontend+Engineer+%7C+React+Specialist;Building+UIs+that+scale+and+perform;React+19+%7C+Next.js+14+%7C+TypeScript;Clean+architecture.+Every+time.)](https://ibrahim-abdullaziz.vercel.app)
 
