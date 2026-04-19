@@ -1,183 +1,89 @@
-<svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" width="640" height="360">
-  <defs>
-    <style>
-      .bg { fill: #0d1117; }
-      .bar { fill: #161b22; }
-      .border { fill: none; stroke: #30363d; stroke-width: 1; }
-      .dot-r { fill: #ff5f57; }
-      .dot-y { fill: #febc2e; }
-      .dot-g { fill: #28c840; }
-      .bar-text { fill: #484f58; font-family: 'SF Mono', 'Fira Code', monospace; font-size: 11px; }
-      .prompt { fill: #484f58; font-family: 'SF Mono', 'Fira Code', monospace; font-size: 12.5px; }
-      .acc { fill: #78C6FF; }
-      .dim { fill: #484f58; }
-      .c-key { fill: #79c0ff; }
-      .c-str { fill: #a5d6ff; }
-      .c-fn  { fill: #d2a8ff; }
-      .c-sym { fill: #ff7b72; }
-      .c-val { fill: #e6edf3; }
-      .c-com { fill: #3d444d; }
-      .c-tag { fill: #7ee787; }
-      .c-jsx { fill: #ffa657; }
-      .cursor { fill: #78C6FF; }
-      .cursor-blink {
-        animation: blink 1s step-end infinite;
-      }
-      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+<div align="center">
 
-      .line1  { opacity: 0; animation: appear .05s ease .4s  forwards; }
-      .line2  { opacity: 0; animation: appear .05s ease .8s  forwards; }
-      .line3  { opacity: 0; animation: appear .05s ease 1.1s forwards; }
-      .line4  { opacity: 0; animation: appear .05s ease 1.4s forwards; }
-      .line5  { opacity: 0; animation: appear .05s ease 1.7s forwards; }
-      .line6  { opacity: 0; animation: appear .05s ease 2.0s forwards; }
-      .line7  { opacity: 0; animation: appear .05s ease 2.3s forwards; }
-      .line8  { opacity: 0; animation: appear .05s ease 2.6s forwards; }
-      .line9  { opacity: 0; animation: appear .05s ease 2.9s forwards; }
-      .line10 { opacity: 0; animation: appear .05s ease 3.2s forwards; }
-      .line11 { opacity: 0; animation: appear .05s ease 3.5s forwards; }
-      .line12 { opacity: 0; animation: appear .05s ease 3.8s forwards; }
-      .line13 { opacity: 0; animation: appear .05s ease 4.1s forwards; }
-      .line14 { opacity: 0; animation: appear .05s ease 4.4s forwards; }
-      .line15 { opacity: 0; animation: appear .05s ease 4.7s forwards; }
-      .line16 { opacity: 0; animation: appear .05s ease 5.0s forwards; }
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header" />
 
-      .cursor-blink { animation: blink 1s step-end 4.8s infinite; opacity: 0; }
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=78C6FF&center=true&vCenter=true&width=520&lines=Frontend+Engineer+%7C+React+Specialist;Building+UIs+that+scale+and+perform;React+19+%7C+Next.js+14+%7C+TypeScript;Clean+architecture.+Every+time.)](https://ibrahim-abdullaziz.vercel.app)
 
-      @keyframes appear { to { opacity: 1; } }
+</div>
 
-      .scanline {
-        fill: none;
-        stroke: rgba(120,198,255,0.03);
-        stroke-width: 1;
-        animation: scan 6s linear infinite;
-      }
-      @keyframes scan {
-        0%   { transform: translateY(-20px); }
-        100% { transform: translateY(380px); }
-      }
+---
 
-      .fade-in-header {
-        opacity: 0;
-        animation: appear .6s ease .1s forwards;
-      }
-    </style>
-  </defs>
+```bash
+~ ibrahimabdullaziz $ cat ibrahim.tsx
+```
 
-  <rect class="bg" width="640" height="360" rx="10"/>
-  <rect class="border" width="639" height="359" x=".5" y=".5" rx="10"/>
+<div align="center">
+<img src="./terminal.svg" alt="Ibrahim's code" />
+</div>
 
-  <rect class="bar" x="1" y="1" width="638" height="38" rx="10"/>
-  <rect class="bar" x="1" y="20" width="638" height="19"/>
+---
 
-  <circle class="dot-r" cx="22" cy="20" r="6"/>
-  <circle class="dot-y" cx="42" cy="20" r="6"/>
-  <circle class="dot-g" cx="62" cy="20" r="6"/>
+```bash
+~ ibrahimabdullaziz $ npm install ibrahim
+```
+added 1 frontend engineer in 0.3s
+✓ react-19              — expert
+✓ next-js-14            — proficient
+✓ typescript            — proficient
+✓ redux-toolkit         — proficient
+✓ tanstack-query        — proficient
+✓ tailwind-v4           — proficient
+✓ framer-motion         — comfortable
+✓ c-cpp-foundations     — strong (yes, really)
 
-  <text x="320" y="24" text-anchor="middle" class="bar-text fade-in-header">ibrahim.tsx — frontend engineer</text>
+> My C/C++ background means I understand render cycles,
+> memory, and performance at a level most frontend devs skip.
 
-  <line x1="1" y1="39" x2="639" y2="39" stroke="#30363d" stroke-width="1"/>
+---
 
-  <rect x="1" y="40" width="48" height="320" fill="#0d1117"/>
-  <line x1="48" y1="40" x2="48" y2="360" stroke="#21262d" stroke-width="1"/>
+```bash
+~ ibrahimabdullaziz $ cat roadmap.log
+```
+2026 goal: senior-ready frontend engineer
+react internals    ████████████████████  90%
+next.js / rsc      ████████████████░░░░  80%
+typescript deep    ███████████████░░░░░  75%
+testing (jest/rtl) ████████░░░░░░░░░░░░  40%
+backend (node.js)  █████░░░░░░░░░░░░░░░  25%
 
-  <text x="32" y="65"  text-anchor="end" class="dim" font-family="'SF Mono','Fira Code',monospace" font-size="11">1</text>
-  <text x="32" y="83"  text-anchor="end" class="dim" font-family="'SF Mono','Fira Code',monospace" font-size="11">2</text>
-  <text x="32" y="101" text-anchor="end" class="dim" font-family="'SF Mono','Fira Code',monospace" font-size="11">3</text>
-  <text x="32" y="119" text-anchor="end" class="dim" font-family="'SF Mono','Fira Code',monospace" font-size="11">4</text>
-  <text x="32" y="137" text-anchor="end" class="dim" font-family="'SF Mono','Fira Code',monospace" font-size="11">5</text>
-  <text x="32" y="155" text-anchor="end" class="dim" font-family="'SF Mono','Fira Code',monospace" font-size="11">6</text>
-  <text x="32" y="173" text-anchor="end" class="dim" font-family="'SF Mono','Fira Code',monospace" font-size="11">7</text>
-  <text x="32" y="191" text-anchor="end" class="dim" font-family="'SF Mono','Fira Code',monospace" font-size="11">8</text>
-  <text x="32" y="209" text-anchor="end" class="dim" font-family="'SF Mono','Fira Code',monospace" font-size="11">9</text>
-  <text x="32" y="227" text-anchor="end" class="dim" font-family="'SF Mono','Fira Code',monospace" font-size="11">10</text>
-  <text x="32" y="245" text-anchor="end" class="dim" font-family="'SF Mono','Fira Code',monospace" font-size="11">11</text>
-  <text x="32" y="263" text-anchor="end" class="dim" font-family="'SF Mono','Fira Code',monospace" font-size="11">12</text>
-  <text x="32" y="281" text-anchor="end" class="dim" font-family="'SF Mono','Fira Code',monospace" font-size="11">13</text>
-  <text x="32" y="299" text-anchor="end" class="dim" font-family="'SF Mono','Fira Code',monospace" font-size="11">14</text>
-  <text x="32" y="317" text-anchor="end" class="dim" font-family="'SF Mono','Fira Code',monospace" font-size="11">15</text>
-  <text x="32" y="335" text-anchor="end" class="dim" font-family="'SF Mono','Fira Code',monospace" font-size="11">16</text>
+---
 
-  <rect x="56" y="50" width="578" height="304" fill="#0d1117"/>
+```bash
+~ ibrahimabdullaziz $ ./stats.sh
+```
 
-  <g class="line1">
-    <text x="64" y="65" font-family="'SF Mono','Fira Code',monospace" font-size="12.5">
-      <tspan class="c-key">import </tspan><tspan class="c-val">React </tspan><tspan class="c-key">from </tspan><tspan class="c-str">'react'</tspan><tspan class="c-sym">;</tspan>
-    </text>
-  </g>
-  <g class="line2">
-    <text x="64" y="83" font-family="'SF Mono','Fira Code',monospace" font-size="12.5">
-      <tspan class="c-key">import </tspan><tspan class="c-val">{ useState, useEffect } </tspan><tspan class="c-key">from </tspan><tspan class="c-str">'react'</tspan><tspan class="c-sym">;</tspan>
-    </text>
-  </g>
-  <g class="line3">
-    <text x="64" y="101" font-family="'SF Mono','Fira Code',monospace" font-size="12.5">
-      <tspan class="c-com">&#160;</tspan>
-    </text>
-  </g>
-  <g class="line4">
-    <text x="64" y="119" font-family="'SF Mono','Fira Code',monospace" font-size="12.5">
-      <tspan class="c-key">interface </tspan><tspan class="c-fn">Engineer </tspan><tspan class="c-sym">{</tspan>
-    </text>
-  </g>
-  <g class="line5">
-    <text x="64" y="137" font-family="'SF Mono','Fira Code',monospace" font-size="12.5">
-      <tspan class="c-com">&#160;&#160;&#160;&#160;</tspan><tspan class="c-c-key">name</tspan><tspan class="c-sym">: </tspan><tspan class="c-key">string</tspan><tspan class="c-sym">;</tspan>
-    </text>
-  </g>
-  <g class="line6">
-    <text x="64" y="155" font-family="'SF Mono','Fira Code',monospace" font-size="12.5">
-      <tspan dx="24" class="c-val">stack</tspan><tspan class="c-sym">: </tspan><tspan class="c-str">'React'</tspan><tspan class="c-sym"> | </tspan><tspan class="c-str">'Next.js'</tspan><tspan class="c-sym"> | </tspan><tspan class="c-str">'TypeScript'</tspan><tspan class="c-sym">;</tspan>
-    </text>
-  </g>
-  <g class="line7">
-    <text x="64" y="173" font-family="'SF Mono','Fira Code',monospace" font-size="12.5">
-      <tspan dx="24" class="c-val">focus</tspan><tspan class="c-sym">: </tspan><tspan class="c-str">'performance'</tspan><tspan class="c-sym"> | </tspan><tspan class="c-str">'clean-arch'</tspan><tspan class="c-sym">;</tspan>
-    </text>
-  </g>
-  <g class="line8">
-    <text x="64" y="191" font-family="'SF Mono','Fira Code',monospace" font-size="12.5">
-      <tspan class="c-sym">}</tspan>
-    </text>
-  </g>
-  <g class="line9">
-    <text x="64" y="209" font-family="'SF Mono','Fira Code',monospace" font-size="12.5">&#160;</text>
-  </g>
-  <g class="line10">
-    <text x="64" y="227" font-family="'SF Mono','Fira Code',monospace" font-size="12.5">
-      <tspan class="c-key">const </tspan><tspan class="c-fn">Ibrahim</tspan><tspan class="c-sym">: </tspan><tspan class="c-fn">Engineer </tspan><tspan class="c-sym">= {</tspan>
-    </text>
-  </g>
-  <g class="line11">
-    <text x="64" y="245" font-family="'SF Mono','Fira Code',monospace" font-size="12.5">
-      <tspan dx="24" class="c-val">name</tspan><tspan class="c-sym">: </tspan><tspan class="c-str">"Ibrahim Abdullaziz"</tspan><tspan class="c-sym">,</tspan>
-    </text>
-  </g>
-  <g class="line12">
-    <text x="64" y="263" font-family="'SF Mono','Fira Code',monospace" font-size="12.5">
-      <tspan dx="24" class="c-val">stack</tspan><tspan class="c-sym">: </tspan><tspan class="c-str">"React"</tspan><tspan class="c-sym">,</tspan>
-    </text>
-  </g>
-  <g class="line13">
-    <text x="64" y="281" font-family="'SF Mono','Fira Code',monospace" font-size="12.5">
-      <tspan dx="24" class="c-val">focus</tspan><tspan class="c-sym">: </tspan><tspan class="c-str">"performance"</tspan><tspan class="c-sym">,</tspan>
-    </text>
-  </g>
-  <g class="line14">
-    <text x="64" y="299" font-family="'SF Mono','Fira Code',monospace" font-size="12.5">
-      <tspan class="c-sym">};</tspan>
-    </text>
-  </g>
-  <g class="line15">
-    <text x="64" y="317" font-family="'SF Mono','Fira Code',monospace" font-size="12.5">&#160;</text>
-  </g>
-  <g class="line16">
-    <text x="64" y="335" font-family="'SF Mono','Fira Code',monospace" font-size="12.5">
-      <tspan class="c-key">export default </tspan><tspan class="c-val">Ibrahim</tspan><tspan class="c-sym">;</tspan>
-    </text>
-  </g>
+<div align="center">
 
-  <rect class="cursor cursor-blink" x="205" y="324" width="7" height="14" rx="1"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ibrahimabdullaziz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=78C6FF&icon_color=78C6FF&border_color=30363d&bg_color=0d1117" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimabdullaziz&layout=compact&theme=github_dark&title_color=78C6FF&border_color=30363d&bg_color=0d1117" />
 
-  <line class="scanline" x1="56" y1="-20" x2="640" y2="-20"/>
-</svg>
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ibrahimabdullaziz&theme=github-dark-blue&border=30363d&ring=78C6FF&fire=78C6FF&currStreakLabel=78C6FF&background=0d1117)](https://github.com/ibrahimabdullaziz)
+
+</div>
+
+---
+
+```bash
+~ ibrahimabdullaziz $ ./connect.sh
+```
+portfolio  →  ibrahim-abdullaziz.vercel.app
+linkedin   →  linkedin.com/in/ibrahim-abdullaziz-894035339
+email      →  ibrahimabdullaziz55@gmail.com
+github     →  github.com/ibrahimabdullaziz
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230d1117.svg?style=for-the-badge&logo=vercel&logoColor=78C6FF)](https://ibrahim-abdullaziz.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=78C6FF)](https://www.linkedin.com/in/ibrahim-abdullaziz-894035339)
+[![Gmail](https://img.shields.io/badge/Gmail-%230d1117.svg?style=for-the-badge&logo=gmail&logoColor=78C6FF)](mailto:ibrahimabdullaziz55@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%230d1117.svg?style=for-the-badge&logo=github&logoColor=78C6FF)](https://github.com/ibrahimabdullaziz)
+
+<br/>
+
+*building UIs that are fast, clean, and built to last.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" />
+
+</div>
