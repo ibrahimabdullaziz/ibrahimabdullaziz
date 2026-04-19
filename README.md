@@ -13,7 +13,9 @@
 ```
 
 <div align="center">
+
 <img src="./terminal.svg" alt="Ibrahim's code" />
+
 </div>
 
 ---
@@ -21,15 +23,19 @@
 ```bash
 ~ ibrahimabdullaziz $ npm install ibrahim
 ```
+
+```
 added 1 frontend engineer in 0.3s
-✓ react-19              — expert
-✓ next-js-14            — proficient
-✓ typescript            — proficient
-✓ redux-toolkit         — proficient
-✓ tanstack-query        — proficient
-✓ tailwind-v4           — proficient
-✓ framer-motion         — comfortable
-✓ c-cpp-foundations     — strong (yes, really)
+
+  [+] react-19              -- expert
+  [+] next-js-14            -- proficient
+  [+] typescript            -- proficient
+  [+] redux-toolkit         -- proficient
+  [+] tanstack-query        -- proficient
+  [+] tailwind-v4           -- proficient
+  [+] framer-motion         -- comfortable
+  [+] c-cpp-foundations     -- strong (yes, really)
+```
 
 > My C/C++ background means I understand render cycles,
 > memory, and performance at a level most frontend devs skip.
@@ -39,12 +45,16 @@ added 1 frontend engineer in 0.3s
 ```bash
 ~ ibrahimabdullaziz $ cat roadmap.log
 ```
+
+```
 2026 goal: senior-ready frontend engineer
-react internals    ████████████████████  90%
-next.js / rsc      ████████████████░░░░  80%
-typescript deep    ███████████████░░░░░  75%
-testing (jest/rtl) ████████░░░░░░░░░░░░  40%
-backend (node.js)  █████░░░░░░░░░░░░░░░  25%
+
+  react internals    [####################]  90%
+  next.js / rsc      [################----]  80%
+  typescript deep    [###############-----]  75%
+  testing (jest/rtl) [########------------]  40%
+  backend (node.js)  [#####---------------]  25%
+```
 
 ---
 
@@ -54,8 +64,8 @@ backend (node.js)  █████░░░░░░░░░░░░░░░ 
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ibrahimabdullaziz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=78C6FF&icon_color=78C6FF&border_color=30363d&bg_color=0d1117" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimabdullaziz&layout=compact&theme=github_dark&title_color=78C6FF&border_color=30363d&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ibrahimabdullaziz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=78C6FF&icon_color=78C6FF&border_color=30363d&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimabdullaziz&layout=compact&theme=github_dark&title_color=78C6FF&border_color=30363d&bg_color=0d1117" />
 
 <br/><br/>
 
@@ -68,10 +78,13 @@ backend (node.js)  █████░░░░░░░░░░░░░░░ 
 ```bash
 ~ ibrahimabdullaziz $ ./connect.sh
 ```
-portfolio  →  ibrahim-abdullaziz.vercel.app
-linkedin   →  linkedin.com/in/ibrahim-abdullaziz-894035339
-email      →  ibrahimabdullaziz55@gmail.com
-github     →  github.com/ibrahimabdullaziz
+
+```
+  portfolio -> ibrahim-abdullaziz.vercel.app
+  linkedin  -> linkedin.com/in/ibrahim-abdullaziz-894035339
+  email     -> ibrahimabdullaziz55@gmail.com
+  github    -> github.com/ibrahimabdullaziz
+```
 
 <div align="center">
 
