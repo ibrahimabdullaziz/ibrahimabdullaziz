@@ -1,8 +1,21 @@
+[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a1628,100:0d1117&height=200&section=header&text=Ibrahim.exe&fontSize=62&fontColor=78C6FF&fontAlignY=55&animation=fadeIn&stroke=78C6FF&strokeWidth=1&desc=Frontend%20Engineer%20%2F%2F%20React%20Specialist%20%2F%2F%20Performance%20First&descSize=14&descAlignY=75&descColor=3d6a8a)](https://ibrahim-abdullaziz.vercel.app)
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d14527&height=100&section=header" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=800&color=78C6FF&center=true&vCenter=true&width=560&height=28&lines=%24+initializing+ibrahim.exe+...;%24+react%4019+%E2%9C%93+next.js%4014+%E2%9C%93+typescript+%E2%9C%93;%24+status%3A+open+to+opportunities;%24+ready+to+build+something+great_)](https://ibrahim-abdullaziz.vercel.app)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=78C6FF&center=true&vCenter=true&width=520&lines=Frontend+Engineer+%7C+React+Specialist;Building+UIs+that+scale+and+perform;React+19+%7C+Next.js+14+%7C+TypeScript;Clean+architecture.+Every+time.)](https://ibrahim-abdullaziz.vercel.app)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-ibrahim--abdullaziz.vercel.app-78C6FF?style=for-the-badge&labelColor=0d1117&color=0d1117&logoColor=78C6FF)](https://ibrahim-abdullaziz.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-connect-78C6FF?style=for-the-badge&labelColor=0d1117&color=0d1117&logo=linkedin&logoColor=78C6FF)](https://www.linkedin.com/in/ibrahim-abdullaziz-894035339)
+[![Gmail](https://img.shields.io/badge/◈_EMAIL-reach_me-78C6FF?style=for-the-badge&labelColor=0d1117&color=0d1117&logo=gmail&logoColor=78C6FF)](mailto:ibrahimabdullaziz55@gmail.com)
+[![GitHub](https://img.shields.io/badge/◈_GITHUB-ibrahimabdullaziz-78C6FF?style=for-the-badge&labelColor=0d1117&color=0d1117&logo=github&logoColor=78C6FF)](https://github.com/ibrahimabdullaziz)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ibrahimabdullaziz&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=0d1117)
+[![GitHub followers](https://img.shields.io/github/followers/ibrahimabdullaziz?style=for-the-badge&color=0d1117&labelColor=0d1117&label=FOLLOWERS&logo=github&logoColor=78C6FF)](https://github.com/ibrahimabdullaziz)
+
 
 </div>
 
@@ -14,7 +27,7 @@
 
 <div align="center">
 
-<img src="./terminal.svg" alt="Ibrahim's code" />
+<img src="./terminal.svg" alt="Ibrahim coding" />
 
 </div>
 
@@ -25,36 +38,23 @@
 ```
 
 ```
+npm warn deprecated perfectionism@0.0.1
 added 1 frontend engineer in 0.3s
 
-  [+] react-19              -- expert
-  [+] next-js-14            -- proficient
-  [+] typescript            -- proficient
-  [+] redux-toolkit         -- proficient
-  [+] tanstack-query        -- proficient
-  [+] tailwind-v4           -- proficient
-  [+] framer-motion         -- comfortable
-  [+] c-cpp-foundations     -- strong (yes, really)
+  [✓] react-19              ██████████  expert
+  [✓] next-js-14            ████████░░  proficient
+  [✓] typescript            ████████░░  proficient
+  [✓] redux-toolkit         ████████░░  proficient
+  [✓] tanstack-query        ████████░░  proficient
+  [✓] tailwind-v4           ████████░░  proficient
+  [~] framer-motion         ██████░░░░  comfortable
+  [✓] c-cpp-foundations     ██████████  strong (yes, really)
+
+warn: still downloading node.js + postgresql + docker...
 ```
 
-> My C/C++ background means I understand render cycles,
-> memory, and performance at a level most frontend devs skip.
-
----
-
-```bash
-~ ibrahimabdullaziz $ cat roadmap.log
-```
-
-```
-2026 goal: senior-ready frontend engineer
-
-  react internals    [####################]  90%
-  next.js / rsc      [################----]  80%
-  typescript deep    [###############-----]  75%
-  testing (jest/rtl) [########------------]  40%
-  backend (node.js)  [#####---------------]  25%
-```
+> `// C/C++ background = I understand what happens under the abstractions.`
+> `// Render cycles, memory layout, performance — not magic, just knowledge.`
 
 ---
 
@@ -71,32 +71,34 @@ added 1 frontend engineer in 0.3s
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ibrahimabdullaziz&theme=github-dark-blue&border=30363d&ring=78C6FF&fire=78C6FF&currStreakLabel=78C6FF&background=0d1117)](https://github.com/ibrahimabdullaziz)
 
+<br/>
+
 </div>
 
 ---
 
 ```bash
-~ ibrahimabdullaziz $ ./connect.sh
+~ ibrahimabdullaziz $ cat roadmap.log
 ```
 
 ```
-  portfolio -> ibrahim-abdullaziz.vercel.app
-  linkedin  -> linkedin.com/in/ibrahim-abdullaziz-894035339
-  email     -> ibrahimabdullaziz55@gmail.com
-  github    -> github.com/ibrahimabdullaziz
+╔══════════════════════════════════════════════════════════════╗
+║  MISSION: senior-ready frontend engineer by end of 2026      ║
+╠══════════════════╦═══════════════════════════════╦═══════════╣
+║  MODULE          ║  PROGRESS                     ║  STATUS   ║
+╠══════════════════╬═══════════════════════════════╬═══════════╣
+║  react internals ║  ██████████████████████████░░ ║   90%  ✓  ║
+║  next.js / rsc   ║  ████████████████████████░░░░ ║   80%  ✓  ║
+║  typescript deep ║  ███████████████████████░░░░░ ║   75%  ✓  ║
+║  testing (rtl)   ║  ████████████░░░░░░░░░░░░░░░░ ║   40%  ~  ║
+║  node.js / apis  ║  ████████░░░░░░░░░░░░░░░░░░░░ ║   25%  ~  ║
+║  postgresql      ║  ██████░░░░░░░░░░░░░░░░░░░░░░ ║   20%  ↓  ║
+║  docker / ci-cd  ║  █████░░░░░░░░░░░░░░░░░░░░░░░ ║   15%  ↓  ║
+╠══════════════════╩═══════════════════════════════╩═══════════╣
+║  reading: Designing Data-Intensive Applications — Kleppmann   ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
+---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230d1117.svg?style=for-the-badge&logo=vercel&logoColor=78C6FF)](https://ibrahim-abdullaziz.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=78C6FF)](https://www.linkedin.com/in/ibrahim-abdullaziz-894035339)
-[![Gmail](https://img.shields.io/badge/Gmail-%230d1117.svg?style=for-the-badge&logo=gmail&logoColor=78C6FF)](mailto:ibrahimabdullaziz55@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%230d1117.svg?style=for-the-badge&logo=github&logoColor=78C6FF)](https://github.com/ibrahimabdullaziz)
-
-<br/>
-
-*building UIs that are fast, clean, and built to last.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" />
-
-</div>
+[![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a1628,100:0d1117&height=100&section=footer&animation=fadeIn)](https://github.com/ibrahimabdullaziz)
